@@ -64,7 +64,7 @@ uvicorn main:app --reload
 
 cd client/ui-aimonk  
 npm install  
-npm start  
+npm run dev  
 
 ---
 
